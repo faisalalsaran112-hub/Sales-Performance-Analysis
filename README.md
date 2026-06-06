@@ -6,6 +6,7 @@ Overview
 ## Dashboard Preview
 
 ![Dashboard](powerbi_dashboard.png)
+
 This project analyzes product sales performance, supplier profitability, category contribution, and regional performance using Excel and Power BI.
 
 Tools Used
